@@ -1,1 +1,1 @@
-# Glue-Pyspark-LDA
+# Glue PysparkによるLDAでの次元圧縮
